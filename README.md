@@ -1,4 +1,5 @@
-# Attenzione: lavori in corso
+# wifi2img
+## Crea un immagine dell'ambiente usando le reti wifi
 
 ## Per aggiornamenti
 
